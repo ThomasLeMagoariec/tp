@@ -24,3 +24,17 @@ FLAGS:
     - nrg: same thing as -ngr
 
 If you encouter any errors or have any questions feel free to contact me on discord: thomas.lemago
+
+## Install
+
+### Linux:
+
+Download the `tp` file and move it to `/usr/local/bin`
+
+### Windows:
+
+Download the `tp.exe` file and it to path via the Modify system variables app
+
+### MacOS
+
+Not supported, but you can download the source code and build it yourself
